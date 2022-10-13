@@ -6,4 +6,4 @@
 ⚡ Cyber Security and CTF Player
 ⚡ Network 
 ⚡ Tech Lover
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelWaMungu&show_icons=true&theme=radical)
