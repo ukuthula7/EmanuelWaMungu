@@ -1,6 +1,6 @@
-## Hello! I am Emanuel Wa Mungu
+## Hi there 👋  I am Emanuel Wa Mungu
 
-### Hi there 👋
+### My Skills 
 ⚡ Software Developer (Front-end and Back End)
 ⚡ Learning DevOps
 ⚡ Cyber Security and CTF Player
