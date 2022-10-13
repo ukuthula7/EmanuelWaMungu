@@ -41,8 +41,8 @@
 ### Articles Writed 
 <hr>
 <ul>
-  <li> <a href="https://medium.com/@emanuelmungu255/why-i-love-c-c-e0281fd3bf2e"> Why I Love C/C++</a> </li>
-  <li> <a href="https://medium.com/@emanuelmungu255/my-journey-toward-mastering-data-structures-and-algorithms-aed1233e9ccf">My Journey toward Mastering Data Structures and Algorithms </a> </li>
+  <li> <a  target="_blank" href="https://medium.com/@emanuelmungu255/why-i-love-c-c-e0281fd3bf2e"> Why I Love C/C++</a> </li>
+  <li> <a target="_blank" href="https://medium.com/@emanuelmungu255/my-journey-toward-mastering-data-structures-and-algorithms-aed1233e9ccf">My Journey toward Mastering Data Structures and Algorithms </a> </li>
 
 </ul>
 
