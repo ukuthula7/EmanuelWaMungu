@@ -2,30 +2,10 @@
 
 ### My Skills 
 <div>
-⚡ Software Developer (Front-end and Back End)
-
+ Software Developer (Frontend and Backend), Specialized on Backend Development ⚡ DevOps ⚡ Cloud Engineer ⚡ Ethical Hacker
 </div>
-⚡ Learning DevOps
-
-<div>
-⚡ Cyber Security and CTF Player
-
-</div>
-
-<div>
-⚡ Network 
-
-</div>
-<div>
-⚡ Content Writer 
-
-</div>
-<div>
-⚡ Tech Lover
-
-</div>
-
 ### Programming Languages and Technologies
+
 
 <div>
 
